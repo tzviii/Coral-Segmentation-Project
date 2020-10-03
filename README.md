@@ -22,11 +22,11 @@ The model is based mostly on UNet and implemented in keras.
 
 The model is trained for 30 epochs.
 
-After 30 epochs, calculated accuracy is about 0.8*.
+After 30 epochs, calculated accuracy is about 0.8. The results look good. The low accuracy is due to poor "ground truth" and actually shows bette results than the ground truth itself.
+
 
 Loss function for the training is basically a multiclass crossentropy.
 
-* The results look good. The low accuracy is due to poor "ground truth" and actually shows bette results than the ground truth itself.
 ---
 
 ## How to use
