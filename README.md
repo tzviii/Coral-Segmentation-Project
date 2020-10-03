@@ -35,6 +35,14 @@ Loss function for the training is basically a multiclass crossentropy.
 
 You will see the predicted results of test image in ************
 
+### Dependencies
+
+In order to use Keras Segmentation you will need:
+
+* Keras>=2.0.0
+* imgaug>=0.2.9
+* opencv-python>=4.1.1.26
+* tqdm
 
 ### Results
 
