@@ -31,7 +31,7 @@ Loss function for the training is basically a multiclass crossentropy.
 
 ## How to use
 
-### Run *****************
+### Edit according to your preferences and run Prediction.py
 
 You will see the predicted results of test image in ************
 
